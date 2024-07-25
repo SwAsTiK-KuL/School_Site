@@ -6,11 +6,10 @@ This project is a complete website for Springdale Public School, built using Rea
 
 2. Clone the repository using Git:
 
-git clone https://github.com/your-username/springdale-public-school-website.git
+git clone https://github.com/SwAsTiK-KuL/School_Site.git
 
 3. Navigate into the project directory:
-
-cd springdale-public-school-website
+cd school_site
 
 4. Installing Dependencies
 Install the required dependencies using npm or yarn:
@@ -23,11 +22,11 @@ Using npm:
 npm start
 
 Starting the Backend Server
-1. Naviagte to src folder.
+1. Naviagte to src folder:
    cd src
    
-3. Navigate to backend folder.
+3. Navigate to backend folder:
    cd backend
 
-4. Start the server.
+4. Start the server:
    node server.js
